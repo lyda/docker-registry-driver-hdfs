@@ -1,0 +1,3 @@
+build/
+dist/
+docker_registry_driver_hdfs.egg-info/
