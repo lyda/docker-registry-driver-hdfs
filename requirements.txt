@@ -1,1 +1,1 @@
-docker-registry-core>2,<3
+docker-registry-core>=2,<3
