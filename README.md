@@ -24,7 +24,6 @@ or reliability.  So the todo list is a little long, sorry:
     from the file driver.  Is that the best way?
   * Caching - again!  This driver caches to the local fs.  It doesn't
     manage this cache; it probably should.
-  * Configurations for the hdfs user.
   * HDFS auth support.
   * What if multiple registries are accessing the same HDFS store?  Do we
     need locking?  Is the docker-registry driver api expressive enough to
